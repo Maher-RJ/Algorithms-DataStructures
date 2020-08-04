@@ -1,3 +1,3 @@
 # Algorithms-and-Data-Structures
 
-A kth course ID1020
+Sorting Algorithms, Labs and proejct
