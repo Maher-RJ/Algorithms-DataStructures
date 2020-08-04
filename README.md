@@ -2,7 +2,7 @@
 
 This repository contains code written during the fall semester 2017 by Maher Riyadh
 
-Sorting Algorithms, Labs and proejct
+Sorting Algorithms, Labs and project
 
 * LAB1 - Basic Programming and Data Abstraction
 * LAB2 - Complexity of Algorithms (only theoretical questions, no code)
